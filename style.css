@@ -191,3 +191,10 @@
     padding: 50px;
 }
 
+.footer a:hover{
+    background-color: rgb(120, 250, 172);
+    padding: 15px;
+    border-radius: 8px;
+    
+}
+
