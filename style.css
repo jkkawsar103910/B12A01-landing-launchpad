@@ -155,7 +155,7 @@
     padding: 70px;
     background-color: bisque;
     width: 80%;
-    border-radius: 8px;
+    border-radius: 18px;
 }
 .form input{
     width: 350px;
@@ -198,3 +198,23 @@
     
 }
 
+.better{
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    
+}
+
+.better button{
+    background-color: blue;
+    padding: 15px;
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.better button:hover{
+    background-color: black;
+    padding: 13px;
+}
