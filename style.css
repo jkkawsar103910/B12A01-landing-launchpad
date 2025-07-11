@@ -123,3 +123,61 @@
 
 }
 
+.card{
+    background-color: rgb(213, 213, 211);
+    width: 370px;
+    padding: 35px 20px;
+    border-radius: 8px;
+
+    
+}
+
+.three-card{
+    display: flex;
+    gap: 50px;
+    margin-left: 170px;
+    padding-bottom: 40px;
+
+}
+
+.card img{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    
+
+}
+
+.form{
+    display: flex;
+    margin-left: 170px;
+    gap: 200px;
+    padding: 70px;
+    background-color: bisque;
+    width: 80%;
+    border-radius: 8px;
+}
+.form input{
+    width: 350px;
+    height: 40px;
+    border: 2px solid rgb(232, 229, 229);
+    border-radius: 8px;
+    
+}
+
+.submit{
+    background-color: blue;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+
+.submit:hover{
+    background-color: black;
+    padding: 13px;
+    cursor: pointer;
+}
+
+
+
+
